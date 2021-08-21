@@ -1,0 +1,41 @@
+/* Global Style */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h5 {
+    font-weight: 600;
+}
+td {
+    font-weight: 600;
+}
+hr {
+    width: 70%;
+    margin: 50px auto 10px;
+}
+
+/* header */
+
+.header {
+    color: whitesmoke;
+    background-color: black;
+    font-weight: 900;
+    font-size: 60px;
+    padding: 10px 0 10px 0;
+    
+    
+}
+.buttons {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 4px 10px;
+}
+.buttons:hover {
+    color: black;
+    background-color: whitesmoke;
+}
+
